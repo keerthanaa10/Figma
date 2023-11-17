@@ -80,7 +80,7 @@ font-size: 20px;
 line-height: 24px;
 text-align: center;
 
-color: A#2B3F0;
+color: #2B3F0A;
 
 mix-blend-mode: normal;
 
@@ -408,7 +408,7 @@ color: #62260C;
 
 
 
-/* Tuesday */
+/* Tuesdaty */
 
 position: absolute;
 width: 98px;
@@ -517,7 +517,7 @@ color: rgba(0, 0, 0, 0.59);
 ```
 
 ## OUTPUT:
-
+![s](https://github.com/knight7080/Figma/assets/88542035/7a0453df-fac6-4889-bc14-75e128360b68)
 
 
 
